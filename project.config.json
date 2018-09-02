@@ -1,5 +1,5 @@
 {
-	"description": "tcb 用户登陆组件",
+	"description": "tcb 用户登陆 DEMO",
 	"packOptions": {
 		"ignore": []
 	},
@@ -13,7 +13,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.2.4",
 	"appid": "",
-	"projectname": "tcb-component-user",
+	"projectname": "tcb-demo-user",
 	"isGameTourist": false,
 	"miniprogramRoot": "client",
 	"cloudfunctionRoot": "./cloud/functions",

@@ -1,6 +1,6 @@
-# 小程序用户管理组件
+# 小程序用户管理 DEMO
 
-基于小程序云开发的用户登陆注册组件
+基于小程序云开发的用户登陆注册 DEMO
 
 ![预览](https://ask.qcloudimg.com/draft/1011618/piih5pivk8.png)
 
