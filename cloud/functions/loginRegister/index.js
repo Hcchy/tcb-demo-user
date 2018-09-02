@@ -2,7 +2,6 @@
 const {
   WXMINIUser
 } = require('wx-js-utils');
-const code2openid = require('./lib/code2openid');
 const db = require('./lib/db');
 const Res = require('./lib/res');
 const {

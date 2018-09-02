@@ -4,8 +4,5 @@ App({
     wx.cloud.init({
       traceUser: true
     });
-  },
-  globalData: {
-    userInfo: null
   }
 })
